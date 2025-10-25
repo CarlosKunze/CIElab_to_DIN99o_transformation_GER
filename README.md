@@ -6,12 +6,13 @@ Dieses Projekt untersucht und vergleicht Farbmessdaten, die in verschiedene Farb
 Die Ergebnisse werden in verschiedenen Diagrammen dargestellt.
 
 ## 🔍 Ziele
-Das Projekt besteht im wesentlichen aus drei teilen. 
+Das Projekt besteht im wesentlichen aus vier teilen. 
 
 - Darstellung der Elementarfarben in in der a-b Ebene der Farbenräume CIELAB und DIN99o  
 - Transformation und Darstellung der Spektralkurvenzüge im CIELAB und DIN99o Farbenraum in form von 2 und 3-Dimensionalen Diagrammen
 - Vergleich der Streuung (Punktewolke) eines gemessenen Testdatensatzes im (3D) CIELAB und DIN99o Farbenraum
 - Berechnung der Farbabstände des Testdatensatzes und Statistische auswertung mit visueller Darstellung der Ergebnisse
+
 
 
 ## 📊 Datengrundlage
